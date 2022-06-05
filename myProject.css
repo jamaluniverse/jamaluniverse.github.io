@@ -88,7 +88,6 @@ h4.ux{
     padding: 1%;
 }
 #myBtn{
-    display: none;
     position: fixed;
     bottom: 20px;
     right: 5%;
@@ -101,7 +100,7 @@ h4.ux{
     padding: 0.75rem 1rem 0.75rem 1rem;
     border-radius: 32px;
     font-size: 75%;
-    font-weight: 400;
+    font-weight: 350;
     scroll-behavior: smooth;
 }
 #myBtn:hover{
