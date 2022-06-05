@@ -81,7 +81,7 @@ p b{
     font-style: normal;
     opacity: 0.5;
 }
-#myBtn {
+#myBtn{
     display: none;
     position: fixed;
     bottom: 20px;
@@ -98,7 +98,7 @@ p b{
     font-weight: 400;
     scroll-behavior: smooth;
 }
-#myBtn:hover {
+#myBtn:hover{
     background-color: #0a3621;
 }
 @media only screen and (max-width: 600px){
