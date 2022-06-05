@@ -1,0 +1,89 @@
+.content-container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 1rem 0 1rem;
+}
+.content-container img{
+    width: 50%;
+    height: 50%;
+}
+.content-container video{
+    width: 50%;
+    height: 50%;
+}
+.content.videos{
+    width: 100%;
+    height: auto;
+}
+.project-container{
+    background-color: #EDF6F9;
+}
+.project-container h4{
+    font-size: 7vw;
+    color: #9db3bb;
+}
+.project-container{
+    color: #141314;
+}
+.project-container2{
+    background-color: #1f1d2b;
+}
+.project-container2 h4{
+    color: #a09db1;
+}
+.project-container2 p{
+    color: #FFFFFF;
+}
+
+/* style ini untuk scroll (sensitif)*/
+.content.scroll{
+    width: 100%;
+    height: auto;
+    z-index: 1;
+}
+.content-container.scroll{
+    padding: 0;
+}
+p.scroll{
+    position: absolute;
+    font-size: 4vw;
+    color: #9db3bb;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    z-index: 2;
+}
+img.faficon{
+    width: 2em;
+    height: auto;
+    margin-top: 5%;
+    animation: slide 1s infinite;
+}
+@keyframes slide{
+    0%{
+        margin-top: 7%;
+    }
+    50%{
+        margin-top: 5%;
+    }
+    100%{
+        margin-top: 7%;
+    }
+}
+/*==================================*/
+
+.content-container.ux img{
+    width: 100%;
+    height: auto;
+}
+h4.ux{
+    font-size: 3.5vw;
+    font-weight: 600;
+}
+.content-container.ux.case-study img{
+    width: 33.3%;
+    height: auto;
+    padding: 0.5%;
+}
