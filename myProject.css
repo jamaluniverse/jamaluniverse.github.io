@@ -91,7 +91,7 @@ h4.ux{
     position: fixed;
     bottom: 20px;
     right: 5%;
-    z-index: 99;
+    z-index: 3;
     border: none;
     outline: none;
     background-color: #197047;
@@ -101,6 +101,5 @@ h4.ux{
     border-radius: 32px;
     font-size: 75%;
     font-weight: 350;
-    scroll-behavior: smooth;
     font-decoration: none;
 }
