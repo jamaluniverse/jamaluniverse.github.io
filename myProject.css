@@ -30,6 +30,7 @@
 }
 .project-container2 h4{
     color: #a09db1;
+    font-size: 7vw;
 }
 .project-container2 p{
     color: #FFFFFF;
@@ -79,6 +80,11 @@ img.faficon{
     height: auto;
 }
 h4.ux{
+    font-size: 3.5vw;
+    font-weight: 600;
+}
+h4.ux2{
+    color: #9db3bb;
     font-size: 3.5vw;
     font-weight: 600;
 }
