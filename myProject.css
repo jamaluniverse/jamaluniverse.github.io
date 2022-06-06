@@ -87,19 +87,16 @@ h4.ux{
     height: auto;
     padding: 1%;
 }
-#myBtn{
+.myBtn{
     position: fixed;
-    bottom: 20px;
-    right: 5%;
+    bottom: 3%;
+    right: 3%;
     z-index: 3;
     border: none;
     outline: none;
-    background-color: #197047;
+    background-color: #0A66C2;
     color: #FFFFFF;
     cursor: pointer;
-    padding: 0.75rem 1rem 0.75rem 1rem;
+    padding: 4px 6px 4px 6px ;
     border-radius: 32px;
-    font-size: 75%;
-    font-weight: 350;
-    text-decoration: none;
 }
