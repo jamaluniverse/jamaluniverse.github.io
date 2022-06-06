@@ -102,7 +102,5 @@ h4.ux{
     font-size: 75%;
     font-weight: 350;
     scroll-behavior: smooth;
-}
-#myBtn:hover{
-    background-color: #0a3621;
+    font-decoration: none;
 }
