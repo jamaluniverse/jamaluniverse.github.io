@@ -29,8 +29,8 @@
     background-color: #1f1d2b;
 }
 .project-container2 h4{
-    font-size: 7vw;
     color: #a09db1;
+    font-size: 7vw;
 }
 .project-container2 p{
     color: #FFFFFF;
@@ -93,7 +93,7 @@ h4.ux2{
     height: auto;
     padding: 1%;
 }
-.myBtn{
+.linkedin{
     position: fixed;
     bottom: 3%;
     right: 3%;
@@ -103,6 +103,6 @@ h4.ux2{
     background-color: #0A66C2;
     color: #FFFFFF;
     cursor: pointer;
-    padding: 5px 6px 5px 6px ;
+    padding: 5px 5px 5px 5px ;
     border-radius: 32px;
 }
