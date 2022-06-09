@@ -35,10 +35,9 @@
 .project-container2 p{
     color: #FFFFFF;
 }
-.content.icon{
+.content-container.icon img{
     width: 100%;
     height: auto;
-    padding: 0 1rem 1rem 1rem;
 }
 
 /* style ini untuk scroll (sensitif)*/
