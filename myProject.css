@@ -87,6 +87,7 @@ img.faficon{
     width: 100%;
     height: auto;
 }
+.
 h4.ux{
     font-size: 3.5vw;
     font-weight: 600;
@@ -95,6 +96,12 @@ h4.ux2{
     color: #9db3bb;
     font-size: 3.5vw;
     font-weight: 600;
+}
+.content-container.ux.darktheme img{
+    width: 50%;
+}
+.content-container.ux.darktheme video{
+    width: 100%;
 }
 .content-container.ux.case-study img{
     width: 50%;
