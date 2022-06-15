@@ -121,3 +121,7 @@ h4.ux2{
     padding: 5px 5px 5px 5px ;
     border-radius: 32px;
 }
+@media only screen and (max-width: 600px){
+    .h4.ux{ font-size: 2.5vw;}
+    .h4.ux2{ font-size: 2.5vw;}
+}
