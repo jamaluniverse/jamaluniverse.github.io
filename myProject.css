@@ -99,9 +99,7 @@ h4.ux2{
 }
 .content-container.ux.darktheme img{
     width: 50%;
-}
-.content-container.ux.darktheme video{
-    width: 100%;
+    height: auto;
 }
 .content-container.ux.case-study img{
     width: 50%;
