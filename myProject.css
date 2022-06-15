@@ -87,8 +87,10 @@ img.faficon{
     width: 100%;
     height: auto;
 }
-.
-h4.ux{
+.content-container.ux p{
+    color: #141314;
+}
+.h4.ux{
     font-size: 3.5vw;
     font-weight: 600;
 }
