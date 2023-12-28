@@ -111,6 +111,19 @@ p.case-study{
     height: auto;
     padding: 1%;
 }
+.project-web{
+    position: fixed;
+    bottom: 3%;
+    right: 3%;
+    z-index: 3;
+    border: none;
+    outline: none;
+    background-color: #0A66C2;
+    color: #FFFFFF;
+    cursor: pointer;
+    padding: 5px 5px 5px 5px ;
+    border-radius: 32px;
+}
 .linkedin{
     position: fixed;
     bottom: 3%;
