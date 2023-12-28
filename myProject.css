@@ -113,7 +113,7 @@ p.case-study{
 }
 .project-web{
     position: fixed;
-    bottom: 3%;
+    bottom: 10%;
     right: 3%;
     z-index: 2;
     border: none;
